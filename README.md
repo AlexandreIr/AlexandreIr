@@ -1,4 +1,4 @@
-<h1>Hello There</h1>
+<h1>Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓</h1>
 <p>My name is Alexandre Fernandes and i'm fullstck developer from São Paulo, Brazil.</p><br>
 <p>My goal as a web developer is to create awesome websites and applications in order to resolve real word problems while looking good on every device. Eager for new challenges.</p>
 
